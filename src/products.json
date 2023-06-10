@@ -1,0 +1,305 @@
+{
+    "iphones": [
+      {
+        "model": "iphone 13",
+        "price": 900,
+        "condition": "new",
+        "solvedLastMonth": 8,
+        "avgSalePrice": 950,
+        "lowestSalePrice": 836,
+        "marketplace": "shop app",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 12",
+        "price": 800,
+        "condition": "new",
+        "solvedLastMonth": 5,
+        "avgSalePrice": 850,
+        "lowestSalePrice": 748,
+        "marketplace": "amazon",
+        "stockValueChange": "down 7%"
+      },
+      {
+        "model": "iphone 11",
+        "price": 700,
+        "condition": "new",
+        "solvedLastMonth": 10,
+        "avgSalePrice": 750,
+        "lowestSalePrice": 660,
+        "marketplace": "ebay",
+        "stockValueChange": "up 15%"
+      },
+      {
+        "model": "iphone X",
+        "price": 600,
+        "condition": "new",
+        "solvedLastMonth": 15,
+        "avgSalePrice": 650,
+        "lowestSalePrice": 572,
+        "marketplace": "facebook",
+        "stockValueChange": "down 8%"
+      },
+      {
+        "model": "iphone 8",
+        "price": 500,
+        "condition": "new",
+        "solvedLastMonth": 20,
+        "avgSalePrice": 550,
+        "lowestSalePrice": 484,
+        "marketplace": "shopify marketplaces",
+        "stockValueChange": "up 12%"
+      },
+      {
+        "model": "iphone 7",
+        "price": 400,
+        "condition": "new",
+        "solvedLastMonth": 25,
+        "avgSalePrice": 450,
+        "lowestSalePrice": 396,
+        "marketplace": "cex",
+        "stockValueChange": "down 10%"
+      },
+      {
+        "model": "iphone 6",
+        "price": 300,
+        "condition": "new",
+        "solvedLastMonth": 30,
+        "avgSalePrice": 350,
+        "lowestSalePrice": 308,
+        "marketplace": "etsy",
+        "stockValueChange": "up 20%"
+      },
+      {
+        "model": "iphone 5",
+        "price": 200,
+        "condition": "new",
+        "solvedLastMonth": 60,
+        "avgSalePrice": 220,
+        "lowestSalePrice": 193,
+        "marketplace": "shop app",
+        "stockValueChange": "down 5%"
+      },
+      {
+        "model": "iphone 4",
+        "price": 150,
+        "condition": "new",
+        "solvedLastMonth": 40,
+        "avgSalePrice": 180,
+        "lowestSalePrice": 158,
+        "marketplace": "amazon",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 3",
+        "price": 100,
+        "condition": "new",
+        "solvedLastMonth": 50,
+        "avgSalePrice": 120,
+        "lowestSalePrice": 105,
+        "marketplace": "ebay",
+        "stockValueChange": "up 14%"
+      },
+      {
+        "model": "iphone 13",
+        "price": 660,
+        "condition": "Grade A",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 750,
+        "lowestSalePrice": 580,
+        "marketplace": "shop app",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 12",
+        "price": 590,
+        "condition": "Grade A",
+        "solvedLastMonth": 1,
+        "avgSalePrice": 650,
+        "lowestSalePrice": 520,
+        "marketplace": "amazon",
+        "stockValueChange": "down 7%"
+      },
+      {
+        "model": "iphone 11",
+        "price": 520,
+        "condition": "Grade A",
+        "solvedLastMonth": 2,
+        "avgSalePrice": 600,
+        "lowestSalePrice": 460,
+        "marketplace": "ebay",
+        "stockValueChange": "up 15%"
+      },
+      {
+        "model": "iphone X",
+        "price": 450,
+        "condition": "Grade A",
+        "solvedLastMonth": 3,
+        "avgSalePrice": 520,
+        "lowestSalePrice": 400,
+        "marketplace": "facebook",
+        "stockValueChange": "down 8%"
+      },
+      {
+        "model": "iphone 8",
+        "price": 380,
+        "condition": "Grade A",
+        "solvedLastMonth": 5,
+        "avgSalePrice": 450,
+        "lowestSalePrice": 350,
+        "marketplace": "shopify marketplaces",
+        "stockValueChange": "up 12%"
+      },
+      {
+        "model": "iphone 7",
+        "price": 300,
+        "condition": "Grade A",
+        "solvedLastMonth": 8,
+        "avgSalePrice": 380,
+        "lowestSalePrice": 300,
+        "marketplace": "cex",
+        "stockValueChange": "down 10%"
+      },
+      {
+        "model": "iphone 6",
+        "price": 230,
+        "condition": "Grade A",
+        "solvedLastMonth": 10,
+        "avgSalePrice": 320,
+        "lowestSalePrice": 230,
+        "marketplace": "etsy",
+        "stockValueChange": "up 20%"
+      },
+      {
+        "model": "iphone 5",
+        "price": 160,
+        "condition": "Grade A",
+        "solvedLastMonth": 25,
+        "avgSalePrice": 250,
+        "lowestSalePrice": 160,
+        "marketplace": "shop app",
+        "stockValueChange": "down 5%"
+      },
+      {
+        "model": "iphone 4",
+        "price": 120,
+        "condition": "Grade A",
+        "solvedLastMonth": 30,
+        "avgSalePrice": 190,
+        "lowestSalePrice": 120,
+        "marketplace": "amazon",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 3",
+        "price": 75,
+        "condition": "Grade A",
+        "solvedLastMonth": 20,
+        "avgSalePrice": 120,
+        "lowestSalePrice": 75,
+        "marketplace": "ebay",
+        "stockValueChange": "up 14%"
+      },
+      {
+        "model": "iphone 13",
+        "price": 500,
+        "condition": "Grade B",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 580,
+        "lowestSalePrice": 400,
+        "marketplace": "shop app",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 12",
+        "price": 440,
+        "condition": "Grade B",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 520,
+        "lowestSalePrice": 360,
+        "marketplace": "amazon",
+        "stockValueChange": "down 7%"
+      },
+      {
+        "model": "iphone 11",
+        "price": 380,
+        "condition": "Grade B",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 460,
+        "lowestSalePrice": 320,
+        "marketplace": "ebay",
+        "stockValueChange": "up 15%"
+      },
+      {
+        "model": "iphone X",
+        "price": 320,
+        "condition": "Grade B",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 400,
+        "lowestSalePrice": 280,
+        "marketplace": "facebook",
+        "stockValueChange": "down 8%"
+      },
+      {
+        "model": "iphone 8",
+        "price": 270,
+        "condition": "Grade B",
+        "solvedLastMonth": 0,
+        "avgSalePrice": 350,
+        "lowestSalePrice": 244,
+        "marketplace": "shopify marketplaces",
+        "stockValueChange": "up 12%"
+      },
+      {
+        "model": "iphone 7",
+        "price": 220,
+        "condition": "Grade B",
+        "solvedLastMonth": 1,
+        "avgSalePrice": 300,
+        "lowestSalePrice": 210,
+        "marketplace": "cex",
+        "stockValueChange": "down 10%"
+      },
+      {
+        "model": "iphone 6",
+        "price": 180,
+        "condition": "Grade B",
+        "solvedLastMonth": 2,
+        "avgSalePrice": 250,
+        "lowestSalePrice": 175,
+        "marketplace": "etsy",
+        "stockValueChange": "up 20%"
+      },
+      {
+        "model": "iphone 5",
+        "price": 140,
+        "condition": "Grade B",
+        "solvedLastMonth": 3,
+        "avgSalePrice": 200,
+        "lowestSalePrice": 123,
+        "marketplace": "shop app",
+        "stockValueChange": "down 5%"
+      },
+      {
+        "model": "iphone 4",
+        "price": 110,
+        "condition": "Grade B",
+        "solvedLastMonth": 5,
+        "avgSalePrice": 160,
+        "lowestSalePrice": 97,
+        "marketplace": "amazon",
+        "stockValueChange": "up 10%"
+      },
+      {
+        "model": "iphone 3",
+        "price": 85,
+        "condition": "Grade B",
+        "solvedLastMonth": 8,
+        "avgSalePrice": 120,
+        "lowestSalePrice": 68,
+        "marketplace": "ebay",
+        "stockValueChange": "up 14%"
+      }
+    ]
+  }
+  

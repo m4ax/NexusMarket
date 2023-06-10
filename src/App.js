@@ -1,25 +1,20 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import Search from './Search';
 import './App.css';
 
-function App() {
+const App = () => {
+
+  const [state, setState ] = useState("")
+  const [ item, setItem ] = useState([{model: "chick nugg"}])
+ 
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Nexus Market</h1>
+      <p>This is the model: {item[0].model}</p>
+      <Search setState={setState} state={state} setItem={setItem} item={item}/>
     </div>
   );
-}
+};
 
 export default App;
